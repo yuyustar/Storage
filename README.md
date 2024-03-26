@@ -13,7 +13,7 @@ cmake..
 make
 ```
 
-![image-20240326163525697](C:\Users\yuyu\AppData\Roaming\Typora\typora-user-images\image-20240326163525697.png)
+![image-20240326163525697](\image-20240326163525697.png)
 
 ## 2函数实现
 
